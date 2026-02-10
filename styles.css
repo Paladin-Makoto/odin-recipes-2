@@ -1,0 +1,24 @@
+body {
+	background: honeydew;
+}
+
+body * {
+	font-family: monospace;
+	margin-left: 10px;
+}
+
+h1 {
+	border: 2px double hotpink;
+	background: white;
+	width: fit-content;
+	margin-left: 30px;
+	padding: 3px 10px;
+}
+
+li {
+	border: 2px double hotpink;
+	font-size: 22px;
+	background: white;
+	width: fit-content;
+	padding: 3px 10px;
+}
